@@ -1,0 +1,29 @@
+.carousel-item img{
+    height: 50em;
+}
+
+#jogos-promocao{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.mat-grid-tile{
+    height: 30em;
+}
+
+.card{
+    max-width: 500px;
+}
+
+.card img{
+    height: 400px;
+}
+
+h4{
+    color: #cf0000;
+    margin-bottom: 0;
+}
+
+button{
+    margin-left: 10px;
+}

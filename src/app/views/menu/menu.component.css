@@ -1,0 +1,17 @@
+.game-logo{
+    height: 50px;
+    margin-right: 10px;
+}
+
+.example-spacer{
+    flex: 1 1 auto;
+}
+
+.mat-button a{
+    font-size: 24px !important;
+}
+
+.mat-toolbar-row a{
+    text-decoration: none;
+    color: #fff;
+}
